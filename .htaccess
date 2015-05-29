@@ -1,6 +1,0 @@
-Header unset ETag
-FileETag None
-
-<files *.html>
-SetOutputFilter DEFLATE
-</files>
